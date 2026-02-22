@@ -1,0 +1,58 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: [Khalid Al Kafi]
+Student ID: [22101152]
+Assignment: Assignment 1 - VangtiChai Flutter App
+Date: 2026-02-22
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[ ] ChatGPT
+[ ] GitHub Copilot
+[x] Claude
+[] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[x] Learning/understanding concepts
+[x] Debugging my code
+[ ] Generating code snippets
+[ ] Writing text content
+[ ] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how:
+Used Claude AI to understand Flutter StatelessWidget lifecycle, MaterialApp theming, and to debug responsive layout issues in portrait/landscape modes. Confirmed best practices for custom widgets like NumericKeypad and ChangeTable. All application logic, including change calculation algorithm, UI structure, state management, and custom widgets, was purely written by me without AI generation.
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: lib/main.dart Section: Theme configuration clarification
+File: lib/src/screens/home_screen.dart Section: MediaQuery orientation debugging
+File: _________________ Section: _________________
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: [Your Signature] ______Kafi_________________
+Date: 2026-02-22 ___________________________
+
+============================================================
